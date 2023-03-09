@@ -12,6 +12,8 @@ public class Aula6 {
 		String valor2 = "1.80"; 
 		float altura = Float.parseFloat(valor2);
 		System.out.printf("Altura é %.4f \n",altura);
+		
+		System.out.println("Adicionei essa linha.");
 	}
 
 }
